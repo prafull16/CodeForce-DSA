@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 8 |
+| 4 | 9 |
 
 ---
 
@@ -16,7 +16,8 @@
 - [data structures](#data-structures) (1)
 - [dsu](#dsu) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (2)
+- [math](#math) (3)
+- [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
@@ -52,7 +53,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/1/B%20-%20Spreadsheet/solution.java) |
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/7/C%20-%20Line/solution.java) |
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/7/C%20-%20Line/solution.java) |
 
 ### probabilities
 
