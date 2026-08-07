@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 9 |
+| 5 | 10 |
 
 ---
 
@@ -15,7 +15,8 @@
 - [binary search](#binary-search) (1)
 - [data structures](#data-structures) (1)
 - [dsu](#dsu) (1)
-- [implementation](#implementation) (1)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
@@ -42,11 +43,18 @@
 |---|---------|------------|----------|
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/E%20-%20Exposition/solution.java) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2/A%20-%20Winner/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/1/B%20-%20Spreadsheet/solution.java) |
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2/A%20-%20Winner/solution.java) |
 
 ### math
 
