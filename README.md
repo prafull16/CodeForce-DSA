@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 12 |
+| 7 | 12 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [greedy](#greedy) (1)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (2)
-- [math](#math) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
 - [trees](#trees) (1)
@@ -74,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
 | 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/1/B%20-%20Spreadsheet/solution.java) |
 | 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/7/C%20-%20Line/solution.java) |
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
