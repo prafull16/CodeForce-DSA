@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 12 |
+| 8 | 12 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [binary search](#binary-search) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dsu](#dsu) (1)
 - [greedy](#greedy) (1)
-- [hashing](#hashing) (1)
-- [implementation](#implementation) (2)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
@@ -43,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/E%20-%20Exposition/solution.java) |
 
 ### dsu
@@ -62,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2/A%20-%20Winner/solution.java) |
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 
 ### implementation
 
@@ -69,6 +71,7 @@
 |---|---------|------------|----------|
 | 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/1/B%20-%20Spreadsheet/solution.java) |
 | 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2/A%20-%20Winner/solution.java) |
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 
 ### math
 
