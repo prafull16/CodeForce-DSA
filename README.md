@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 12 |
+| 9 | 12 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [dsu](#dsu) (1)
 - [greedy](#greedy) (1)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (3)
-- [math](#math) (4)
+- [implementation](#implementation) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
 - [trees](#trees) (1)
@@ -72,6 +72,7 @@
 | 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/1/B%20-%20Spreadsheet/solution.java) |
 | 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2/A%20-%20Winner/solution.java) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+| 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
 
 ### math
 
@@ -81,6 +82,7 @@
 | 1B | [Spreadsheet](https://codeforces.com/contest/1/problem/B) | 1600 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/1/B%20-%20Spreadsheet/solution.java) |
 | 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/7/C%20-%20Line/solution.java) |
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
+| 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
 
 ### number theory
 
