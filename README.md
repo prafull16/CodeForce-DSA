@@ -6,22 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 12 |
+| 12 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (2)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (3)
+- [dp](#dp) (1)
 - [dsu](#dsu) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (6)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -38,13 +41,21 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.java) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
 
 ### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/E%20-%20Exposition/solution.java) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
 
 ### dsu
 
@@ -57,6 +68,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.java) |
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
 
 ### hashing
 
@@ -97,6 +109,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
 
 ### trees
 
