@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 15 |
+| 13 | 15 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dsu](#dsu) (1)
 - [greedy](#greedy) (2)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (6)
-- [math](#math) (5)
+- [implementation](#implementation) (7)
+- [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (1)
@@ -87,6 +87,7 @@
 | 6B | [President's Office](https://codeforces.com/contest/6/problem/B) | 1100 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/B%20-%20President's%20Office/solution.java) |
 | 12A | [Super Agent](https://codeforces.com/contest/12/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/A%20-%20Super%20Agent/solution.java) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### math
 
@@ -97,6 +98,7 @@
 | 7C | [Line](https://codeforces.com/contest/7/problem/C) | 1800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/7/C%20-%20Line/solution.java) |
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/9/A%20-%20Die%20Roll/solution.java) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### number theory
 
