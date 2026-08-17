@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 15 |
+| 15 | 15 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (7)
 - [math](#math) (7)
@@ -26,7 +26,7 @@
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -69,6 +69,7 @@
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.java) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
+| 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.java) |
 
 ### hashing
 
@@ -136,6 +137,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.java) |
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/E%20-%20Exposition/solution.java) |
 
 ---
