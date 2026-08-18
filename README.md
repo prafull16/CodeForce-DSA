@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 15 |
+| 16 | 15 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dsu](#dsu) (1)
 - [greedy](#greedy) (3)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
@@ -88,6 +88,7 @@
 | 6B | [President's Office](https://codeforces.com/contest/6/problem/B) | 1100 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/B%20-%20President's%20Office/solution.java) |
 | 12A | [Super Agent](https://codeforces.com/contest/12/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/A%20-%20Super%20Agent/solution.java) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
+| 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/14/A%20-%20Letter/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### math
