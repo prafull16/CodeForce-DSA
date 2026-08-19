@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 15 |
+| 17 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
@@ -24,7 +25,7 @@
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (2)
 
@@ -35,6 +36,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/E%20-%20Exposition/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### constructive algorithms
 
@@ -127,6 +134,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### trees
 
