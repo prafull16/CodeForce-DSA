@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 16 |
+| 18 | 17 |
 
 ---
 
@@ -18,9 +18,10 @@
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
-- [greedy](#greedy) (3)
+- [games](#games) (1)
+- [greedy](#greedy) (4)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (8)
+- [implementation](#implementation) (9)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
@@ -70,6 +71,12 @@
 |---|---------|------------|----------|
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/E%20-%20Exposition/solution.java) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -77,6 +84,7 @@
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.java) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.java) |
+| 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 
 ### hashing
 
@@ -96,6 +104,7 @@
 | 12A | [Super Agent](https://codeforces.com/contest/12/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/A%20-%20Super%20Agent/solution.java) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
 | 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/14/A%20-%20Letter/solution.java) |
+| 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
 ### math
