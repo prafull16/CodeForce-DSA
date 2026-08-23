@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 17 |
+| 21 | 17 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
@@ -106,6 +106,7 @@
 | 12A | [Super Agent](https://codeforces.com/contest/12/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/A%20-%20Super%20Agent/solution.java) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
 | 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/14/A%20-%20Letter/solution.java) |
+| 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
 
