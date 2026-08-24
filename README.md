@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 17 |
+| 22 | 17 |
 
 ---
 
@@ -21,11 +21,11 @@
 - [games](#games) (1)
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (2)
@@ -106,6 +106,7 @@
 | 12A | [Super Agent](https://codeforces.com/contest/12/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/A%20-%20Super%20Agent/solution.java) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
 | 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/14/A%20-%20Letter/solution.java) |
+| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/27/A%20-%20Next%20Test/solution.java) |
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
@@ -139,6 +140,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
+| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/27/A%20-%20Next%20Test/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
