@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 17 |
+| 24 | 17 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
@@ -50,6 +50,7 @@
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.java) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
+| 12E | [Start of the session](https://codeforces.com/contest/12/problem/E) | 2100 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/E%20-%20Start%20of%20the%20session/solution.java) |
 
 ### data structures
 
