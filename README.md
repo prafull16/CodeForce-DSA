@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 17 |
+| 29 | 17 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [probabilities](#probabilities) (1)
@@ -111,6 +111,7 @@
 | 12A | [Super Agent](https://codeforces.com/contest/12/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/A%20-%20Super%20Agent/solution.java) |
 | 13A | [Numbers](https://codeforces.com/contest/13/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/13/A%20-%20Numbers/solution.java) |
 | 14A | [Letter](https://codeforces.com/contest/14/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/14/A%20-%20Letter/solution.java) |
+| 16A | [Flag](https://codeforces.com/contest/16/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/16/A%20-%20Flag/solution.java) |
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/27/A%20-%20Next%20Test/solution.java) |
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
