@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 17 |
+| 30 | 17 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (14)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (2)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (6)
@@ -131,6 +131,7 @@
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.java) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.java) |
 
 ### number theory
