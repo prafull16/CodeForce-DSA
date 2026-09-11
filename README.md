@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 17 |
+| 35 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (11)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (16)
 - [math](#math) (11)
@@ -28,7 +28,7 @@
 - [sortings](#sortings) (7)
 - [strings](#strings) (3)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -45,6 +45,7 @@
 | 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.java) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.java) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 
 ### constructive algorithms
 
@@ -90,10 +91,12 @@
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.java) |
 | 16B | [Burglar and Matches](https://codeforces.com/contest/16/problem/B) | 900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/16/B%20-%20Burglar%20and%20Matches/solution.java) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/34/B%20-%20Sale/solution.java) |
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.java) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 
 ### hashing
 
@@ -186,6 +189,7 @@
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.java) |
 | 6E | [Exposition](https://codeforces.com/contest/6/problem/E) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/6/E%20-%20Exposition/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 
 ---
 
