@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 18 |
+| 38 | 18 |
 
 ---
 
@@ -15,12 +15,12 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [dsu](#dsu) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (17)
 - [math](#math) (11)
@@ -61,6 +61,7 @@
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.java) |
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.java) |
 | 12E | [Start of the session](https://codeforces.com/contest/12/problem/E) | 2100 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/12/E%20-%20Start%20of%20the%20session/solution.java) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2259/C%20-%20101/solution.java) |
 
 ### data structures
 
@@ -104,6 +105,7 @@
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2259/C%20-%20101/solution.java) |
 
 ### hashing
 
