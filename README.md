@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 17 |
+| 37 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (3)
@@ -21,7 +22,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (11)
 - [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
@@ -31,6 +32,12 @@
 - [two pointers](#two-pointers) (4)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.java) |
 
 ### binary search
 
@@ -125,6 +132,7 @@
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 | 2255A | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2255/problem/A) | 1200 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2255/A%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.java) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.java) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [Java 21](https://github.com/prafull16/CodeForce-DSA/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.java) |
 
 ### math
 
